@@ -1,0 +1,8 @@
+{
+  "name": "車資對帳工具",
+  "short_name": "車資對帳",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}
